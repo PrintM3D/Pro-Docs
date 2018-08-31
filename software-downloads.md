@@ -1,7 +1,5 @@
-# Software Downloads
+# M3D Pro
 
-{% tabs %}
-{% tab title="Pro" %}
 **Download the Latest Version**
 
 | Windows |  [Download](https://printm3d.com/files/software_pro_alpha/Windows/2017-09-21-setup_m3d-V1.8.0.0.exe) v1.8.0.0  [MD5](https://printm3d.com/files/software_pro_alpha/Windows/2017-09-21-setup_m3d-V1.8.0.0.exe.md5.txt)  [Release Notes](http://printm3d.com/files/software_pro_alpha/Release_Notes_Windows_Pro.pdf) |
@@ -10,6 +8,4 @@
 | Mac |  [Download](http://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg) v1.8.1.0  [MD5](http://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg.md5.txt)  [Release Notes](http://printm3d.com/files/software_pro_alpha/Release_Notes_Mac_Pro_Alpha.pdf) |
 
  [Click here to browse all versions](https://www.dropbox.com/sh/6qnlmq0d3zusyj2/AAD048ZcHaxbEKL5fn2W3Rx0a?dl=0)
-{% endtab %}
-{% endtabs %}
 
