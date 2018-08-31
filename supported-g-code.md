@@ -1,7 +1,3 @@
----
-description: Adapted from M3D's "GCODE MANUAL" DRAFT rev2
----
-
 # Supported G-Code
 
 ## Overview
