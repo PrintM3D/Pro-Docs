@@ -1,4 +1,4 @@
-# Pre-Release Software\(M3D Pro\)
+# Pre-Release Software\(M3D-Pro\)
 
 {% hint style="warning" %}
 This is pre-release software and has not been subject to full testing procedures; please use it with caution.
