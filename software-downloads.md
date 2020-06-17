@@ -1,4 +1,4 @@
-# Software Downloads
+# Software Download
 
 **Download the Latest Version**
 
